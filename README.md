@@ -7,10 +7,6 @@ Registration Number: 25233130
 
 GCP Public IP: http://34.60.247.173
 
-## How to Run Locally
-
-docker-compose up --build
-
 ## Technologies Used
 
 - React (Frontend)
