@@ -17,7 +17,7 @@ GCP Public IP: http://34.60.247.173
 
 ## Repository structure
 Secure-DevOps/
-│
+
 ├── backend-flask/
 ├── frontend-react/
 ├── docker-compose.yml
